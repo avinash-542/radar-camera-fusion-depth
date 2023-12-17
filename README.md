@@ -211,5 +211,25 @@ bash bash/run_fusionnet_nuscenes_test.sh
 
 Note: Remember to execute all the above commands from project root directory.
 
+## Results
+Below are some of the produced results of this project
+
+1)
+![ouput1](results/output1.png)
+
+2)
+![ouput2](results/output2.png)
+
+3)
+![ouput3](results/output3.png)
+
+4)
+![ouput4](results/output4.png)
+
+5)
+![ouput5](results/output5.png)
+
+6)
+![ouput6](results/output6.png)
 
 
